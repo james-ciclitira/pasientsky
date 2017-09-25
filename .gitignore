@@ -1,8 +1,7 @@
 # node / npm
-node_modules
+node_modules/
 *.log
 .cache/
-
 .DS_Store
 yarn-error.log
 yarn.lock
