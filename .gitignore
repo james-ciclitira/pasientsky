@@ -1,4 +1,6 @@
+# node / npm
 node_modules
+*.log
 .cache/
 
 .DS_Store
