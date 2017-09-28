@@ -21,12 +21,14 @@ const TemplateWrapper = ({ children }) => (
         { name: 'description', content: 'Sample' },
         { name: 'keywords', content: 'sample, something' },
       ]}
+      link={[
+        {rel:'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'},
+        ]}
     />
-    <Header />
     <div
       style={{
-        margin: '0 auto',
-        maxWidth: 960,
+        marginLeft: '220',
+        marginTop: '72',
         padding: '0px 1.0875rem 1.45rem',
         paddingTop: 0,
       }}
