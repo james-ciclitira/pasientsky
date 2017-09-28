@@ -5,13 +5,6 @@ import Helmet from 'react-helmet'
 
 import './index.css'
 
-const Header = () => (
-  <div className='shadow-2 pv3 bg-blue'>
-    <div className='mw8 db center'>
-        <Link className='link f3 ma0 black-70' to="/">Gatsby</Link>
-    </div>
-  </div>
-)
 
 const TemplateWrapper = ({ children }) => (
   <div>
