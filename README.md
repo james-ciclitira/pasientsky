@@ -1,9 +1,3 @@
-# gatsby-pasientsky-project
-Using default Gatsby starter
+# Medical-app
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-example-site
-```
+![alt tag](https://github.com/james-ciclitira/Uvita-medical-app/blob/master/flow.png?raw=true)

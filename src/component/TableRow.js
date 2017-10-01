@@ -9,7 +9,7 @@ class TableRow extends React.Component {
     return (
           <tr className='pointer bordered'>
           <td className="pv3 pr3">
-          <div className="br-100 overflow-hidden dib cover"
+          <div className="overflow-hidden dib cover"
           style={{backgroundImage: 'url("images/user.jpg")', backgroundRepeat: 'no-repeat', height:'40px', width:'40px'}}>
           </div>
           <div className='dib v-top mt0 ml24'>
