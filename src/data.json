@@ -1,0 +1,198 @@
+[
+  {
+    "_id": "aerLAgceSjDNhussB",
+    "id": "ID_0E9EFFAC-8399-4BA4-BD75-86863262819D",
+    "typeName": "Krever godkj. Fritak",
+    "typeId": "11",
+    "atcId": "N02BE01",
+    "atcCatName": "OTHER ANALGESICS AND ANTIPYRETICS",
+    "atcName": "Paracetamol",
+    "substanceName": "Paracetamol",
+    "productName": "Panodil Stikkpille 60 mg",
+    "form": "Stikkpille",
+    "strength": "60",
+    "units": "mg",
+    "packages": [
+      {
+        "id": "ID_2C296CEE-CD7E-4338-B5B1-370C0B8AAD09ID_5184BE5A-09F3-48BF-9EBE-BD171A894A1B",
+        "name": "Panodil Stikkpille 60 mg",
+        "packageSize": "10",
+        "units": "stk",
+        "type": "(ikke angitt)"
+      }
+    ],
+    "areaOfUse": [],
+    "dosis": []
+  },
+  {
+    "_id": "gMkXmmRs2qwvBr3bn",
+    "id": "ID_3F62D499-3173-4E80-96EA-663E666FFDDB",
+    "typeName": "Legemiddel",
+    "typeId": "7",
+    "atcId": "N02BE01",
+    "atcCatName": "OTHER ANALGESICS AND ANTIPYRETICS",
+    "atcName": "Paracetamol",
+    "substanceName": "Paracetamol",
+    "productName": "Panodil Tab 1 g",
+    "form": "Tablett",
+    "strength": "1",
+    "units": "g",
+    "packages": [
+      {
+        "id": "ID_9024A9CC-E4C4-4A9F-B569-34CBC6D1CE9CID_5454A304-532B-4152-B66A-C9566C25B973",
+        "name": "Panodil Tab 1 g",
+        "packageSize": "100",
+        "units": "stk",
+        "type": "Boks av plast"
+      }
+    ],
+    "areaOfUse": [
+      {
+        "label": "VED SMERTER",
+        "value": "VED SMERTER"
+      },
+      {
+        "label": "MOT SMERTER",
+        "value": "MOT SMERTER"
+      },
+      {
+        "label": "SMERTESTILLENDE",
+        "value": "SMERTESTILLENDE"
+      }
+    ],
+    "dosis": [
+      {
+        "label": "0,5x3",
+        "value": "0,5x3"
+      },
+      {
+        "label": "1x3",
+        "value": "1x3"
+      },
+      {
+        "label": "1 inntil x3",
+        "value": "1 inntil x3"
+      }
+    ]
+  },
+  {
+    "_id": "aginX4prDZfgmfAju",
+    "id": "ID_31D02A09-B0D0-4ACF-9B52-70A866E33AF8",
+    "typeName": "Legemiddel",
+    "typeId": "7",
+    "atcId": "N02BE01",
+    "atcCatName": "OTHER ANALGESICS AND ANTIPYRETICS",
+    "atcName": "Paracetamol",
+    "substanceName": "Paracetamol",
+    "productName": "Panodil Tab 500 mg",
+    "form": "Tablett",
+    "strength": "500",
+    "units": "mg",
+    "packages": [
+      {
+        "id": "ID_74D25641-5D5C-498C-AD64-01CAE7368B4EID_B22BCBD3-93A8-452E-BAFD-B17FA0A0F159",
+        "name": "Panodil Tab 500 mg",
+        "packageSize": "300",
+        "units": "stk",
+        "type": "Boks"
+      },
+      {
+        "id": "ID_B22B5FB7-DF4E-41F3-9BB7-938B74393125ID_B22BCBD3-93A8-452E-BAFD-B17FA0A0F159",
+        "name": "Panodil Tab 500 mg",
+        "packageSize": "96",
+        "units": "stk",
+        "type": "Blisterpakning"
+      },
+      {
+        "id": "ID_D4C3E4F4-959B-46D4-9587-8670D1F34CD9ID_B22BCBD3-93A8-452E-BAFD-B17FA0A0F159",
+        "name": "Panodil Tab 500 mg",
+        "packageSize": "20",
+        "units": "stk",
+        "type": "Blisterpakning"
+      }
+    ],
+    "areaOfUse": [
+      {
+        "label": "MOT SMERTER",
+        "value": "MOT SMERTER"
+      },
+      {
+        "label": "MOT MENSSMERTER",
+        "value": "MOT MENSSMERTER"
+      },
+      {
+        "label": "SMERTESTILLENDE",
+        "value": "SMERTESTILLENDE"
+      }
+    ],
+    "dosis": [
+      {
+        "label": "0,5x3",
+        "value": "0,5x3"
+      },
+      {
+        "label": "1x3",
+        "value": "1x3"
+      },
+      {
+        "label": "1-2x3",
+        "value": "1-2x3"
+      },
+      {
+        "label": "1-2 inntil x3",
+        "value": "1-2 inntil x3"
+      }
+    ]
+  },
+  {
+    "_id": "9neZoGrSERckKfhWX",
+    "id": "ID_76A15012-363F-4C90-BB2F-2F9A0475029B",
+    "typeName": "Legemiddel",
+    "typeId": "7",
+    "atcId": "N02BE01",
+    "atcCatName": "OTHER ANALGESICS AND ANTIPYRETICS",
+    "atcName": "Paracetamol",
+    "substanceName": "Paracetamol",
+    "productName": "Panodil Zapp Tab 500 mg",
+    "form": "Tablett",
+    "strength": "500",
+    "units": "mg",
+    "packages": [
+      {
+        "id": "ID_52664FF6-1B80-4B82-B9E8-42FBD7184AABID_9457C142-FC6C-4075-B315-A06E779EE58B",
+        "name": "Panodil Zapp Tab 500 mg",
+        "packageSize": "20",
+        "units": "stk",
+        "type": "Blisterpakning"
+      }
+    ],
+    "areaOfUse": [
+      {
+        "label": "MOT SMERTER",
+        "value": "MOT SMERTER"
+      },
+      {
+        "label": "MOT MENSSMERTER",
+        "value": "MOT MENSSMERTER"
+      },
+      {
+        "label": "SMERTESTILLENDE",
+        "value": "SMERTESTILLENDE"
+      }
+    ],
+    "dosis": [
+      {
+        "label": "1x3",
+        "value": "1x3"
+      },
+      {
+        "label": "1-2 inntil x3",
+        "value": "1-2 inntil x3"
+      },
+      {
+        "label": "1-2x3",
+        "value": "1-2x3"
+      }
+    ]
+  }
+]

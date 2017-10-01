@@ -7,7 +7,7 @@
       "layout": "index",
       "jsonName": "dev-404-page.json",
       "internalComponentName": "ComponentDev404Page",
-      "updatedAt": 1506622432059,
+      "updatedAt": 1506770850389,
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a0ee8f1013a6f07a65f59dd31187a5ba",
+        "contentDigest": "90ae08eab5e546b8502392afbf6ec31b",
         "owner": "internal-data-bridge"
       }
     },
@@ -321,12 +321,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-09-28T18:13:49.893Z",
+      "buildTime": "2017-09-30T11:27:21.649Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f8c61cd17f10eb29d4c7f7355f0f037a",
+        "contentDigest": "2af2286b52a1a37f2850c769331ceb37",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -338,7 +338,7 @@
       "layout": "index",
       "jsonName": "404.json",
       "internalComponentName": "Component404",
-      "updatedAt": 1506622432070,
+      "updatedAt": 1506770850442,
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
@@ -348,28 +348,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4bbc9f92fc06e18b2e717b28b79932ae",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /page-2/": {
-      "path": "/page-2/",
-      "component": "/Users/Jimmy/Desktop/pasientsky/src/pages/page-2.js",
-      "componentChunkName": "component---src-pages-page-2-js",
-      "layout": "index",
-      "jsonName": "page-2.json",
-      "internalComponentName": "ComponentPage2",
-      "updatedAt": 1506622432071,
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Desktop/pasientsky/src/pages/page-2.js",
-      "id": "SitePage /page-2/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b9f1f759498be37df5d8f4015317e2b2",
+        "contentDigest": "7c5317d6a886e5a66ed9df5dbc2f6958",
         "owner": "internal-data-bridge"
       }
     },
@@ -380,7 +359,7 @@
       "layout": "index",
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
-      "updatedAt": 1506622432072,
+      "updatedAt": 1506770850448,
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
@@ -390,7 +369,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c99db95017c16b51f9034dea24539799",
+        "contentDigest": "0b9fae49b43a4225fcd1a3671b20bd77",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "path": "/page-2/",
+      "component": "/Users/Jimmy/Desktop/pasientsky/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "layout": "index",
+      "jsonName": "page-2.json",
+      "internalComponentName": "ComponentPage2",
+      "updatedAt": 1506770850451,
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Jimmy/Desktop/pasientsky/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a7846eddd55fd047288dc60016628397",
         "owner": "internal-data-bridge"
       }
     },
@@ -401,7 +401,7 @@
       "layout": "index",
       "jsonName": "404-html.json",
       "internalComponentName": "Component404Html",
-      "updatedAt": 1506622432075,
+      "updatedAt": 1506770850558,
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
@@ -411,7 +411,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fc6eb0d017ee0f92fe94dd6ee9f39a8c",
+        "contentDigest": "6d6f376113d09386c6161d71a6525acb",
         "owner": "internal-data-bridge"
       }
     }

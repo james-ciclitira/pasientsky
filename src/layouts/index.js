@@ -15,13 +15,13 @@ const TemplateWrapper = ({ children }) => (
         { name: 'keywords', content: 'sample, something' },
       ]}
       link={[
-        {rel:'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'},
+        {rel:'stylesheet', href: 'https://fonts.googleapis.com/icon?family=Material+Icons'},
         ]}
     />
     <div
       style={{
-        marginLeft: '220',
-        marginTop: '72',
+        marginLeft: '180px',
+        marginTop: '72px',
         padding: '0px 1.0875rem 1.45rem',
         paddingTop: 0,
       }}

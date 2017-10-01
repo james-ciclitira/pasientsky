@@ -1,13 +1,35 @@
 /*! TACHYONS v4.8.0 | http://tachyons.io */
 
-@fontface {
-  font-family: 'Lato', sans-serif;
-  src: url('https://fonts.googleapis.com/css?family=Lato:400,700')
+@font-face {
+  font-family: 'proximanova-regular', sans-serif;
 }
 
+::placeholder {
+  color: rgba(255, 255, 255, 0.12);
+}
+
+.ml24 {
+  margin-left: 24px
+}
+
+.mt16
+{
+  margin-top: 16px
+}
+
+.active-tab {
+  color: rgba(0,0,0,0.87);
+  background-color: rgba(0,0,0,0.08)
+}
+
+
 body {
-  font-family: 'Lato', sans-serif;
   background-color: #eee
+}
+
+hr {
+  border-color:  rgba(0,0,0,0.12);
+  border-width: 0.5px;
 }
 
 
@@ -15,7 +37,7 @@ input:focus,
 select:focus,
 textarea:focus,
 button:focus {
-    outline: none;
+  outline: none;
 }
 
 html {
@@ -156,6 +178,8 @@ select {
 }
 
 
+
+
 /* 1 */
 
 [type=reset],
@@ -229,6 +253,8 @@ textarea {
 }
 
 
+
+
 /* 1 */
 
 menu,
@@ -288,7 +314,8 @@ textarea,
 th,
 tr,
 ul {
-  box-sizing: border-box
+  box-sizing: border-box;
+  font-family: 'proximanova-regular', sans-serif;
 }
 
 .aspect-ratio {
