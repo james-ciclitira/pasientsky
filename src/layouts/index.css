@@ -17,6 +17,10 @@
   margin-top: 16px
 }
 
+.bordered {
+    border-bottom: 1px solid #000;
+}
+
 .active-tab {
   color: rgba(0,0,0,0.87);
   background-color: rgba(0,0,0,0.08)

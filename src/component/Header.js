@@ -4,7 +4,7 @@ import React from 'react'
 class Header extends React.Component {
   render() {
     return (
-    <header className="absolute top-0 left-0 right-0 w-100 shadow-1"
+    <header className="absolute top-0 left-0 right-0 w-100 shadow-1 fixed"
     style={{height:'56px', zIndex: '22', backgroundColor: '#253238'}}>
     <div className='dib v-top pt3'>
     <i className="ml24 material-icons white v-mid dib ">menu</i>
