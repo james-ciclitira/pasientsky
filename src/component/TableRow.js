@@ -26,6 +26,9 @@ class TableRow extends React.Component {
           <td className="pv3 v-top">
           <p className='ma0'>14419232532474</p>
           </td>
+          <td className="pv3 v-top">
+          <a className='ma0 blue'>Prescriptions</a>
+          </td>
         </tr>
     );
   }
